@@ -2,7 +2,9 @@
 
 ## Summary
 
-This is an updated repository from the previous research by Prof John R. Kender team on the project **"TAGGING AND BROWSING VIDEOS ACCORDING TO THE PREFERENCES OF DIFFERING AFFINITY GROUPS"** at Columbia University
+This is an updated repository from the previous research by Prof John R. Kender team on the project
+**"TAGGING AND BROWSING VIDEOS ACCORDING TO THE PREFERENCES OF DIFFERING AFFINITY GROUPS"**
+at Columbia University
 
 This repository includes an updated UI on word-clouds.
 
