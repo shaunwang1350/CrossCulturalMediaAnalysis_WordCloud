@@ -17,6 +17,12 @@ http://www.cs.columbia.edu/~jrk/NSFgrants/videoaffinity/
 Here is a full report on the updated UI for spring of 2021:
 [Wang,Shaun_FinalReport](miscellaneous/Wang_Shaun_Final_Report.pdf)
 
+## Prototype Updates
+
+|                               Old Prototype                                |                               New Prototype                                |
+| :------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
+| <img src="miscellaneous/oldPrototype.png" alt="oldPrototype" width="400"/> | <img src="miscellaneous/newPrototype.png" alt="newPrototype" width="400"/> |
+
 ## Requirements:
 
 - flask
@@ -33,9 +39,3 @@ Here is a full report on the updated UI for spring of 2021:
 - python3 -m pip install requirements.txt
 - explort Flask_APP = app.py
 - flask run
-
-## Prototype Updates
-
-|                               Old Prototype                                |                               New Prototype                                |
-| :------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
-| <img src="miscellaneous/oldPrototype.png" alt="oldPrototype" width="400"/> | <img src="miscellaneous/newPrototype.png" alt="newPrototype" width="400"/> |
