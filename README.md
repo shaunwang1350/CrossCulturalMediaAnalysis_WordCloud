@@ -9,6 +9,9 @@ https://github.com/luvenahuo/CrossCulturalMultimediaAnalysis
 
 This repository includes an updated UI on word-clouds.
 
+Here is the home page to this research project:
+http://www.cs.columbia.edu/~jrk/NSFgrants/videoaffinity/
+
 ## Report
 
 Here is a full report on the updated UI for spring of 2021:
