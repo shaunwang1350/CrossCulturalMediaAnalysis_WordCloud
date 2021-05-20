@@ -2,12 +2,12 @@
 
 ## Summary
 
-This is an updated repository from the previous research by Prof John R. Kender team on the project "TAGGING AND BROWSING VIDEOS ACCORDING TO THE PREFERENCES OF DIFFERING AFFINITY GROUPS" at Columbia University
-
-Previous Repo:
-https://github.com/luvenahuo/CrossCulturalMultimediaAnalysis
+This is an updated repository from the previous research by Prof John R. Kender team on the project **"TAGGING AND BROWSING VIDEOS ACCORDING TO THE PREFERENCES OF DIFFERING AFFINITY GROUPS"** at Columbia University
 
 This repository includes an updated UI on word-clouds.
+
+Previous repository:
+https://github.com/luvenahuo/CrossCulturalMultimediaAnalysis
 
 Here is the home page to this research project:
 http://www.cs.columbia.edu/~jrk/NSFgrants/videoaffinity/
